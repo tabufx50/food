@@ -1,9 +1,11 @@
 # HTML & CSS Food Page
 Nice html and css site that has some nice animations and is mobile responsive showing different media query sizes.
 
+## Desktop Version 👇
+
 ![Screenshot](food-site.jpg)
 
-## Mobile Version
+## Mobile Version 👇
 
 ![Screenshot](food-mobile.jpg)
 
