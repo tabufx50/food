@@ -3,6 +3,10 @@ Nice html and css site that has some nice animations and is mobile responsive sh
 
 ![Screenshot](food-site.jpg)
 
+## Mobile Version
+
+![Screenshot](food-mobile.jpg)
+
 ## Smooth Animations
 Nice smooth animations on input form.
 
